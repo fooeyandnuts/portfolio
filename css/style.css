@@ -479,9 +479,9 @@ a:hover {
 #about .social-icons .icon-twitter {
   background: #ffffff url('../img/icon-twitter.png') center center no-repeat;
 }
-#about .social-icons .icon-twitter:hover {
+/*#about .social-icons .icon-twitter:hover {
   background: #6baecd url('../img/icon-twitter-white.png') center center no-repeat;
-}
+}*/
 #about .social-icons .icon-skype {
   background: #ffffff url('../img/icon-skype-red.png') center center no-repeat;
 }
