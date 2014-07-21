@@ -318,7 +318,7 @@ a:hover {
   padding: 150px 0 60px;
   margin-top: 0;
   margin-bottom: 0;
-  background: transparent url('../img/header-bg.jpg') repeat top left;
+  background: transparent url('../images/Mount_Whitney.jpg') repeat top left;
   font-size: 1em;
   height: auto;
   overflow: hidden;
@@ -471,13 +471,13 @@ a:hover {
   margin-top: 20px;
 }
 #about .social-icons .icon-facebook {
-  background: #ffffff url('../img/icon-facebook-red.png') center center no-repeat;
+  background: #ffffff url('../img/icon-facebook.png') center center no-repeat;
 }
 #about .social-icons .icon-facebook:hover {
   background: #6baecd url('../img/icon-facebook-white.png') center center no-repeat;
 }
 #about .social-icons .icon-twitter {
-  background: #ffffff url('../img/icon-twitter-red.png') center center no-repeat;
+  background: #ffffff url('../img/icon-twitter.png') center center no-repeat;
 }
 #about .social-icons .icon-twitter:hover {
   background: #6baecd url('../img/icon-twitter-white.png') center center no-repeat;
@@ -493,6 +493,12 @@ a:hover {
 }
 #about .social-icons .icon-dribbble:hover {
   background: #6baecd url('../img/icon-dribbble-white.png') center center no-repeat;
+}
+#about .social-icons .icon-linkedin {
+  background: #ffffff url('../img/icon-linkedin.png') center center no-repeat;
+}
+#about .social-icons .icon-github {
+  background: #ffffff url('../img/icon-github.png') center center no-repeat;
 }
 /* ==========================================================================
    Services Section
